@@ -6,7 +6,7 @@ I build backends and infrastructure, and most of what I build ends up running on
 Looking for a junior internship in cybersecurity, AI or backend — available immediately, from February 2027, or as a summer 2027 intern.
 
 ## 🌐 Links
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nuno-s) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:O_TEU_EMAIL) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Gost_Evil) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nunos@nunos.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nuno-s) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Gost_Evil) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nunos@nunos.dev)
 
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-nunos.dev-000000?logo=googlechrome&logoColor=white)](https://nunos.dev) [![CV](https://img.shields.io/badge/CV-Download-2E7D32?logo=adobeacrobatreader&logoColor=white)](https://nunos.dev/cv.pdf) -->
 
