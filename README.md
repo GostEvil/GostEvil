@@ -1,10 +1,26 @@
 ## Hi, I'm Nuno 👋
-Computer engineering student at UPB (Polytechnic University of Bragança), Portugal🇵🇹, graduating in July 2027. Erasmus at Cracow University of Technology, Kraków, Poland🇵🇱, in 2026.
+Computer engineering student at UPB (Polytechnic University of Bragança), Portugal, graduating in July 2027. Erasmus at Cracow University of Technology, Kraków, Poland, in 2026.
 
-I build full-stack projects, from the database to the server it runs on, and I'm moving towards cybersecurity and AI.
+I build backends and infrastructure, and most of what I build ends up running on servers I set up and secure myself. I'm focused on cybersecurity and applied AI: honeypots and log analysis on one side, LLM agents, OCR and vision models on the other.
+
+Looking for a junior internship in cybersecurity, AI or backend — available immediately, from February 2027, or as a summer 2027 intern.
 
 ## 🌐 Links
-[![Portfolio](https://img.shields.io/badge/Portfolio-nunos.dev-000000?logo=googlechrome&logoColor=white)](https://nunos.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nuno-s) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:O_TEU_EMAIL) [![CV](https://img.shields.io/badge/CV-Download-2E7D32?logo=adobeacrobatreader&logoColor=white)](https://nunos.dev/cv.pdf) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Gost_Evil) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nunos@nunos.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nuno-s) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:O_TEU_EMAIL) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Gost_Evil) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nunos@nunos.dev)
+
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-nunos.dev-000000?logo=googlechrome&logoColor=white)](https://nunos.dev) [![CV](https://img.shields.io/badge/CV-Download-2E7D32?logo=adobeacrobatreader&logoColor=white)](https://nunos.dev/cv.pdf) -->
+
+## 🔧 Projects
+**SSH/HTTP Honeypot** - in development Medium/high-interaction SSH and HTTP honeypot written from scratch in Python (asyncio). It records credentials tried, commands, user agents and SHA-256 hashes of attempted malware downloads, maps attacker behaviour to MITRE ATT&CK techniques and groups campaigns across different IPs. Nothing is ever executed: the service runs sandboxed, with a read-only filesystem and no outbound traffic. Public dashboard with session replay and a real-time 3D attack globe. `Python` `asyncio` `MITRE` `ATT&CK` `Linux hardening` `three.js`
+
+**UPBot / NEEI Bot** - AI student verification and exam archive · in production Discord bot for my university's computer engineering student association. It verifies students automatically by extracting text from enrollment certificates (pypdf, or Tesseract OCR on scans) and matching name, student number and academic year, tolerating accents and common OCR errors. Exams are classified by an LLM agent that returns structured JSON, falling back to vision models when the extracted text is weak. Four-level permission system, action logging, tested with pytest and deployed as a systemd service. Python discord.py `Tesseract` `OCR` `LLM APIs` `vision models`
+
+**ZARCO · personal life manager** - in production Full-stack app I use every day, where an AI layer does the work I don't want to do by hand: it reads receipts and categorises expenses on its own, watches my Garmin health data for changes and proposes what caused them, and turns loose ideas into concrete to-dos. Around it sit modules for calendar, notes, habits, sleep, trips, investments and screen time, plus a refereeing module that works out fuel costs, compares motorway against national roads and tracks match earnings. FastAPI and SQLAlchemy 2 over PostgreSQL 16 with Alembic migrations, React frontend, self-hosted on an Oracle Cloud VPS with Docker Compose and Caddy for automatic HTTPS, plus update, backup, restore and health-check scripts. `Python` `FastAPI` `PostgreSQL` `React` `TypeScript` `Docker` `Caddy`
+
+<!-- **Second brain UPB · local-first search engine for course material** - in development Search engine over my own course material from the university Moodle, with an inverted index and BM25 ranking implemented from scratch, running entirely in the browser. Privacy by design: each student indexes only what they already have access to, and private documents never leave the device. `JavaScript` `IndexedDB` BM25` `Moodle` `API` -->
+
+**Homelab** — self-hosted development server An old laptop turned into a Proxmox host that I reach over Tailscale to run coding agents remotely, keeping my main machine free. SSH for day-to-day work, systemd services, all on free tiers. `Proxmox` `Debian` `Tailscale` `SSH`
+
 
 ## 💻 Tech Stack
  
