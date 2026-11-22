@@ -1,11 +1,11 @@
 ## Hi, I'm Nuno 👋
-Computer engineering student at UPB (Polytechnic University of Bragança), Portugal, graduating in July 2027. Erasmus at Cracow University of Technology, Kraków, Poland, in 2026.
+Computer engineering student at UPB (Polytechnic University of Bragança), Portugal, graduating in July 2027. Erasmus at Cracow University of Technology, Kraków, in 2026.
 
 I build backends and infrastructure, and most of what I build ends up running on servers I set up and secure myself. I'm focused on cybersecurity and applied AI: honeypots and log analysis on one side, LLM agents, OCR and vision models on the other.
 
-Looking for a junior internship in cybersecurity, AI or backend — available immediately, from February 2027, or as a summer 2027 intern.
+**Looking for a junior internship in cybersecurity, AI or backend** - available immediately, from February 2027, or as a summer 2027 intern.
 
-## 🌐 Links
+## 🌐 Find me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nuno-s) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Gost_Evil) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nunos@nunos.dev)
 
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-nunos.dev-000000?logo=googlechrome&logoColor=white)](https://nunos.dev) [![CV](https://img.shields.io/badge/CV-Download-2E7D32?logo=adobeacrobatreader&logoColor=white)](https://nunos.dev/cv.pdf) -->
@@ -20,7 +20,6 @@ Looking for a junior internship in cybersecurity, AI or backend — available im
 <!-- **Second brain UPB · local-first search engine for course material** - in development Search engine over my own course material from the university Moodle, with an inverted index and BM25 ranking implemented from scratch, running entirely in the browser. Privacy by design: each student indexes only what they already have access to, and private documents never leave the device. `JavaScript` `IndexedDB` BM25` `Moodle` `API` -->
 
 **Homelab** — self-hosted development server An old laptop turned into a Proxmox host that I reach over Tailscale to run coding agents remotely, keeping my main machine free. SSH for day-to-day work, systemd services, all on free tiers. `Proxmox` `Debian` `Tailscale` `SSH`
-
 
 ## 💻 Tech Stack
  
@@ -64,5 +63,11 @@ Looking for a junior internship in cybersecurity, AI or backend — available im
  
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
  
+## 🏃 Beyond code
 
-
+- **NEEI** — Secretary of the General Assembly Board at my university's computer engineering student association.
+- **Online communities** — years on the moderation, admin and management teams of large Minecraft servers, even ran my own.
+- **Open source translation** — EN↔PT translator for Minecraft and Hypixel.
+- **Futsal referee** — federated futsal referee. Officiated across all age groups including national competitions, three international friendlies of the Saudi Arabia national team (one against Brazil), and was Match Commissioner at a FISU event.
+- **Outdoors** — trail running and hiking; Rysy and Mount Olympus so far, first 4000m planned for next year.
+- **Languages** — Portuguese (native), English (C1), Spanish (conversational), a little Polish picked up during my Erasmus semester.
